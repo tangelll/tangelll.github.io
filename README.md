@@ -4,7 +4,7 @@
 
 ## [LinkedIn](https://www.linkedin.com/in/salih-tangel/)
 ## [Github](https://github.com/tangelll)
-## About Me?
+## About Me
 I am Salih Tangel, an eager to learn, proactive, and hardworking person. I enjoy doing sports, taking nature photos, and contributing to open-source projects.
 
 ## Education
