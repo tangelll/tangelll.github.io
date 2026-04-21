@@ -1,4 +1,4 @@
-# salih tangel
+# Salih Tangel
 
 ## Who am I?
 I am Salih Tangel. I am eager to learn, proactive, and hardworking. I enjoy doing sports, taking nature photos, and contributing to open-source projects.
@@ -20,12 +20,15 @@ Alongside my master’s degree, I actively work on personal projects and try to 
 I completed two final projects during my undergraduate studies:
 
 An AR-based game
+
 An Apriori-based recommendation system for e-commerce
 
-I also took system programming courses focusing on threads, processes, and resource management in C, and completed two final projects in this area.
+I also took system programming courses focusing on threads, processes, and resource management in C, and completed two final projects in this lesson.
 Additionally, I developed two mobile games and published them on the Google Play Store:
-https://play.google.com/store/apps/details?id=com.TangelTech.CandyBlast&hl=en
-https://play.google.com/store/apps/details?id=com.tangeltech.JumpChallange&hl=en
+
+[Google Play Store] (https://play.google.com/store/apps/details?id=com.TangelTech.CandyBlast&hl=en)
+
+[Google Play Store] (https://play.google.com/store/apps/details?id=com.tangeltech.JumpChallange&hl=en)
 
 ## Questions?
 If you have any questions, you can contact me at:
