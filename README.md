@@ -1,9 +1,9 @@
 <img src="https://github.com/tangelll.png" align="left" width="180" style="margin-right:20px"/>
 
-
 # Salih Tangel
 
-[linkedin](https://www.linkedin.com/in/salih-tangel/)
+## [LinkedIn](https://www.linkedin.com/in/salih-tangel/)
+## [Github](https://github.com/tangelll)
 ## About Me?
 I am Salih Tangel, an eager to learn, proactive, and hardworking person. I enjoy doing sports, taking nature photos, and contributing to open-source projects.
 
