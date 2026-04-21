@@ -1,7 +1,10 @@
+<img src="https://github.com/tangelll.png" align="left" width="120" style="margin-right:20px"/><div style="clear: both"></div>
+
 # Salih Tangel
 
-## Who am I?
-I am Salih Tangel. I am eager to learn, proactive, and hardworking. I enjoy doing sports, taking nature photos, and contributing to open-source projects.
+[linkedin](https://www.linkedin.com/in/salih-tangel/)
+## About Me?
+I am Salih Tangel. I am eager to learn, proactive, and hardworking person. I enjoy doing sports, taking nature photos, and contributing to open-source projects.
 
 ## Education
 I graduated from Gebze Technical University with a degree in Computer Engineering. I am currently pursuing my Master’s degree in Software Engineering at Kocaeli University.
