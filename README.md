@@ -1,4 +1,5 @@
-<img src="https://github.com/tangelll.png" align="left" width="120" style="margin-right:20px"/><div style="clear: both"></div>
+<img src="https://github.com/tangelll.png" align="left" width="180" style="margin-right:20px"/>
+
 
 # Salih Tangel
 
