@@ -16,6 +16,8 @@ In my work experience, I was involved in IoT systems.
 My current interests include GIS, Remote Sensing, Computer Vision, and AI systems, especially efficiency-focused solutions.
 Alongside my master’s degree, I actively work on personal projects and try to contribute to open-source projects.
 
+[Grass](https://github.com/tangelll?achievement=pair-extraordinaire&tab=achievements)
+
 ## Projects
 I completed two final projects during my undergraduate studies:
 
@@ -23,12 +25,15 @@ An AR-based game
 
 An Apriori-based recommendation system for e-commerce
 
-I also took system programming courses focusing on threads, processes, and resource management in C, and completed two final projects in this lesson.
+I also took system programming courses in Linux focusing on threads, processes, and resource management in C, and completed two final projects in this lesson.
+
+[Book](https://man7.org/training/download/Linux_System_Programming_Essentials-mkerrisk_man7.org.pdf)
+
 Additionally, I developed two mobile games and published them on the Google Play Store:
 
-[Google Play Store] (https://play.google.com/store/apps/details?id=com.TangelTech.CandyBlast&hl=en)
+[Google Play Store](https://play.google.com/store/apps/details?id=com.TangelTech.CandyBlast&hl=en)
 
-[Google Play Store] (https://play.google.com/store/apps/details?id=com.tangeltech.JumpChallange&hl=en)
+[Google Play Store](https://play.google.com/store/apps/details?id=com.tangeltech.JumpChallange&hl=en)
 
 ## Questions?
 If you have any questions, you can contact me at:
