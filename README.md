@@ -4,7 +4,7 @@
 
 [linkedin](https://www.linkedin.com/in/salih-tangel/)
 ## About Me?
-I am Salih Tangel. I am eager to learn, proactive, and hardworking person. I enjoy doing sports, taking nature photos, and contributing to open-source projects.
+I am Salih Tangel, an eager to learn, proactive, and hardworking person. I enjoy doing sports, taking nature photos, and contributing to open-source projects.
 
 ## Education
 I graduated from Gebze Technical University with a degree in Computer Engineering. I am currently pursuing my Master’s degree in Software Engineering at Kocaeli University.
